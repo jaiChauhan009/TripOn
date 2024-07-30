@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "728015295586",
+    "project_id": "makemytrip-183a5",
+    "storage_bucket": "makemytrip-183a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728015295586:android:aed289a484d70d69eaad3b",
+        "android_client_info": {
+          "package_name": "com.example.tripon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVGEC6umFQUZt99JFMJbibpf18Vn6lcto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

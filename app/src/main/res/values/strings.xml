@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TripOn</string>
+    <string name="title_activity_make_trip">MakeTrip</string>
+    <string name="title_activity_my_service">MyService</string>
+    <string name="title_activity_login_sing_in">LoginSingIn</string>
+</resources>
